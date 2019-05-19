@@ -334,7 +334,8 @@
      }
 <br>
 (9)新建NoteColor的activity
-      public class NoteColor extends Activity {
+    
+    public class NoteColor extends Activity {
 
     private Cursor mCursor;
     private Uri mUri;
@@ -371,7 +372,7 @@
 
     @Override
     protected void onPause() {
-        super.onPause();
+          super.onPause();
         ContentValues values = new ContentValues();
         values.put(NotePad.Notes.COLUMN_NAME_BACK_COLOR, color);
         getContentResolver().update(mUri, values, null, null);
@@ -653,7 +654,8 @@
 <br>
 (2)在NoteList文件的onOptionsItemSelected方法中添加修改排序的case语句，将Cursor的排序参数变换就可实现排序，排序
 之后再用MyCursorAdapter装填
-      //创建时间排序
+     
+     //创建时间排序
             case R.id.menu_sort1:
                 cursor = managedQuery(
                         getIntent().getData(),            // Use the default content URI for the provider.
