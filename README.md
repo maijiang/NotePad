@@ -62,7 +62,7 @@
    
    到此，显示时间戳的功能已经完成，截图如下
 <br>
-![Image text](https://github.com/maijiang/Work4/blob/master/time.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/time.PNG)
    <br>
    
 #### 实现过程<br>
@@ -199,7 +199,7 @@
 
 到此，搜索功能完成，截图如下：
 <br>
-![Image text](https://github.com/maijiang/Work4/blob/master/search.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/search.PNG)
 <br>
         
 ### 二.附加要求： 
@@ -472,8 +472,8 @@
 <br>
 到此，更改背景颜色功能完成，截图如下：
 <br>
-![Image text](https://github.com/maijiang/Work4/blob/master/change_color.PNG)
-![Image text](https://github.com/maijiang/Work4/blob/master/change.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/change_color.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/change.PNG)
 <br>
 
 #### 实现过程<br>
@@ -638,8 +638,8 @@
 <br>
 到此，更改导出功能完成，截图如下：
 <br>
-![Image text](https://github.com/maijiang/Work4/blob/master/output.PNG)
-![Image text](https://github.com/maijiang/Work4/blob/master/output_1.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/output.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/output_1.PNG)
 <br>
 
 #### 实现过程<br>
@@ -728,8 +728,8 @@
 
 到此，笔记排序的功能实现，以修改时间为例截图如下
 <br>
-![Image text](https://github.com/maijiang/Work4/blob/master/sort.PNG)
-![Image text](https://github.com/maijiang/Work4/blob/master/sort_1.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/sort.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/sort_1.PNG)
 
 
 
