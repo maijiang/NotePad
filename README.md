@@ -472,7 +472,7 @@
 <br>
 到此，更改背景颜色功能完成，截图如下：
 <br>
-![Image text](https://github.com/maijiang/NotePad/blob/master/change_color.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/change_color.PNG)<br>
 ![Image text](https://github.com/maijiang/NotePad/blob/master/change.PNG)
 <br>
 
@@ -638,7 +638,7 @@
 <br>
 到此，更改导出功能完成，截图如下：
 <br>
-![Image text](https://github.com/maijiang/NotePad/blob/master/output.PNG)
+![Image text](https://github.com/maijiang/NotePad/blob/master/output.PNG)<br>
 ![Image text](https://github.com/maijiang/NotePad/blob/master/output_1.PNG)
 <br>
 
