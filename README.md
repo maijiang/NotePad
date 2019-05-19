@@ -301,7 +301,7 @@
                 viewIDs
         );
 <br>   
-(6)在编辑日志文件NoteEditor中修改颜色，则在其PROJECTION中添加颜色字段，如上
+(6)在编辑日志文件NoteEditor中修改颜色，则在其PROJECTION中添加颜色字段，如上<br>
 (7)在NoteEditor类onResume()方法中添加
 
       int x = mCursor.getInt(mCursor.getColumnIndex(NotePad.Notes.COLUMN_NAME_BACK_COLOR));
@@ -463,7 +463,7 @@
        </LinearLayout>
 <br>
 
-(10)在AndroidManifest.xml注册NoteColor
+(11)在AndroidManifest.xml注册NoteColor
    
      <activity android:name="NoteColor"
             android:theme="@android:style/Theme.Holo.Light.Dialog"
