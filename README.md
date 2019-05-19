@@ -177,7 +177,8 @@
     </LinearLayout>
  <br>
  
- (4)在NotesList.java文件中的onOptionsItemSelected方法中，添加选择搜索的case语句
+
+(4)在NotesList.java文件中的onOptionsItemSelected方法中，添加选择搜索的case语句
   
        //添加搜素
             case R.id.menu_search:
@@ -216,7 +217,8 @@
 <br>
 2.更改记事本背景   
 (1)为每一条日志添加背景色，则要在NotePad中新增颜色字段
-        /**
+      
+      /**
          *背景颜色
          */
         public static final String COLUMN_NAME_BACK_COLOR = "color";
@@ -413,7 +415,7 @@
 (10)对选择颜色界面进行布局，新建布局note_color.xml
 
     <?xml version="1.0" encoding="utf-8"?>
-   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
