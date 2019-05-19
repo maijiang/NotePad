@@ -61,7 +61,8 @@
         values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, dateTime);
    
    到此，显示时间戳的功能已经完成，截图如下
-   
+<br>
+![Image text](https://github.com/maijiang/Work4/blob/master/time.PNG)
    <br>
    
 #### 实现过程<br>
@@ -196,7 +197,10 @@
 <br>
 
 到此，搜索功能完成，截图如下：
-   
+<br>
+![Image text](https://github.com/maijiang/Work4/blob/master/search.PNG)
+<br>
+        
 ### 二.附加要求： 
 #### 1.UI美化
 #### 2.更改记事本的背景
@@ -465,6 +469,10 @@
             android:windowSoftInputMode="stateVisible"/>
 <br>
 到此，更改背景颜色功能完成，截图如下：
+<br>
+![Image text](https://github.com/maijiang/Work4/blob/master/change_color.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/change.PNG)
+<br>
 
 #### 实现过程<br>
 3.导出笔记
@@ -627,7 +635,10 @@
 (6)在AndroidManifest.xml中为该方法注册，如NoteColor方法，不赘述
 <br>
 到此，更改导出功能完成，截图如下：
-
+<br>
+![Image text](https://github.com/maijiang/Work4/blob/master/output.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/output_1.PNG)
+<br>
 
 #### 实现过程<br>
 4.笔记分类
@@ -713,9 +724,10 @@
                 setListAdapter(adapter);
                 return true;
 
-到此，笔记排序的功能实现，截图如下
-
-
+到此，笔记排序的功能实现，以修改时间为例截图如下
+<br>
+![Image text](https://github.com/maijiang/Work4/blob/master/sort.PNG)
+![Image text](https://github.com/maijiang/Work4/blob/master/sort_1.PNG)
 
 
 
